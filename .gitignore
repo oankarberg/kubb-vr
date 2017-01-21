@@ -31,4 +31,6 @@ sysinfo.txt
 *.apk
 *.unitypackage
 
+*.VC.db
+
 
