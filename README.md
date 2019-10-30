@@ -2,6 +2,8 @@
 
 This is a VR-experience of the Swedish summer game Kubb, developed in Unity for HTC Vive. 
 
+See video: http://www.cawards.se/project/kubb-vr/
+
 
 ## Screenshots
 
